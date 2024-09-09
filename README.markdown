@@ -7,9 +7,7 @@ the term equator has taken on another distinct meaning. The term is often
 used to refer to the region where Earth's magnetic field points parallel to
 the ellipsoid. Geophysicists say the field has zero inclination here.
 
-https://github.com/user-attachments/assets/7a1d40eb-a722-4aa9-a160-c87caf9cf1c4
-
-Despite begin semantically close, the magnetic and geographic equators are
+Despite begin syntactically close, the magnetic and geographic equators are
 often quite far apart. Some times as far as a 1000 kilometers! Those who
 dare to explore at low latitudes must be confident as to whether they are low
 magnetically, or geographically.
